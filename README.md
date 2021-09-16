@@ -12,14 +12,15 @@
 - 💬 Ask me about **Iron man**
 
 - ⚡ Fun fact **I star my own repos**
-- ⚡ Fun fact 2 **Second fact can't be fun**
-- ⚡ Fun fact 3 **You'll see how many times I've refreshed the page [here](https://komarev.com/ghpvc/?username=hyperx837&label=Profile%20views&color=0e75b6&style=flat)**
+- ⚡ Fun fact 2 **A Second fact can't be fun**
+- ⚡ Fun fact 3 **Profile view count is more like a profile refresh count**
 - ⚡ Fun fact 4 **You didn't expect more than 1 Fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dribbble.com/hyperx837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hyperx837" height="30" width="40" /></a>
-<a href="https://discord.gg/Spidex#0753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Spidex#0753" height="30" width="40" /></a>
+<a href="https://dribbble.com/hyperx837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hyperx837" height="30" width="40" /></a> Alex Parker 
+ <br>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Spidex#0753" height="30" width="40" /> Spidex#0753
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
