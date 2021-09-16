@@ -11,7 +11,10 @@
 
 - 💬 Ask me about **Iron man**
 
-- ⚡ Fun fact **you think I don't know your home address**
+- ⚡ Fun fact **I star my own repos**
+- ⚡ Fun fact 2 **Second fact can't be fun**
+- ⚡ Fun fact 3 **You'll see how many times I've refreshed the page [here](https://komarev.com/ghpvc/?username=hyperx837&label=Profile%20views&color=0e75b6&style=flat)**
+- ⚡ Fun fact 4 **You didn't expect more than 1 Fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
