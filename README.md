@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **discord.py**
 
-- 💬 Ask me about **Iron man**
+- 💬 Ask me about **Python, Bots and Automation*
 
 - ⚡ Fun fact **I star my own repos**
 - ⚡ Fun fact 2 **A Second fact can't be fun**
