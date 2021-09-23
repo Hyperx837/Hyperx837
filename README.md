@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyper</h1>
+<h1 align="center">Hi, I'm Hyper <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40></h1>
 <h3 align="center">A badass python + frontend developer from Kepler-452b</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperx837&label=Profile%20views&color=0e75b6&style=flat" alt="hyperx837" /> </p>
