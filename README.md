@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Hyper <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40></h1>
 <h3 align="center">A badass python + frontend developer from Kepler-452b</h3>
 
+
+## My Recent Work
+<li><a href="https://technicolor.netlify.app/">Technicolor<a></li>
+<li><a href="https://kithulgodaranya.github.io/">Kithulgodaranya<a></li>
+<br><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hyperx837&label=Profile%20views&color=0e75b6&style=flat" alt="hyperx837" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyperx837&show_icons=true&locale=en" alt="hyperx837" /></p>
 
@@ -43,6 +48,7 @@
     <a href="https://figma.com/" target="_blank"><img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
+
 
 ## Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyperx837&" alt="hyperx837" /></p>
