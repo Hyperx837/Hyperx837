@@ -12,8 +12,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Moddity](https://github.com/Hyperx837/moddy)<br>
-- 🌱 I’m currently learning **discord.py**<br>
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Hyperx837/portfolio)<br>
+- 🌱 I’m currently learning **Next.js**<br>
 - 💬 Ask me about **Python, Scraping, Bots, Automation and React**<br>
 - ⚡ Fun fact **I use arch btw**<br>
 
