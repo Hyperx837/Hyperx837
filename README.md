@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hyper <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40></h1>
-<h3 align="center">A python + react dev from Earth-838</h3>
+<h3 align="center">A python (and react) developer from SL</h3>
 
 
 ## My Recent Work
