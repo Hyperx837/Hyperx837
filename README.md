@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Hyperx837/portfolio)<br>
+- 🔭 I’m currently working on Mathematical computing (simpy, matplotlib) <br>
 - 🌱 I’m currently learning **Next.js**<br>
 - 💬 Ask me about **Python, Scraping, Bots, Automation and React**<br>
 - ⚡ Fun fact **I use arch btw**<br>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://dribbble.com/hyperx837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hyperx837" height="30" width="40" /></a> Alex Parker 
+    <a href="https://dribbble.com/hyperx837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hyperx837" height="30" width="40" /></a> Hyper 
  <br>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Spidex#0753" height="30" width="40" /> Spidex#0753
 </p>
