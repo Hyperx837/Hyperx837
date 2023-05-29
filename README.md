@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Mathematical computing (simpy, matplotlib) <br>
+- 🔭 I’m currently working on **Mathematical computing** (simpy, matplotlib) <br>
 - 🌱 I’m currently learning **Next.js**<br>
 - 💬 Ask me about **Python, Scraping, Bots, Automation and React**<br>
 - ⚡ Fun fact **I use arch btw**<br>
